@@ -1,3 +1,3 @@
-# 3x3 tic tac toe project
+# 3x3 Tic Tac Toe project
 -
 *UNDERCONSTRUCTION*
